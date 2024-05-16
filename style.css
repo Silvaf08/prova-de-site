@@ -1,0 +1,43 @@
+header
+{
+    background-color: rgb(241, 229, 213);
+    border: solid 5px black;
+    display: flex;
+    padding: 3px;
+    max-width: 1200px;
+}
+
+nav
+{
+    font-size: large;
+    left: 500px;
+    position:relative;
+    top: 20px;
+    
+}
+
+.section1
+{
+    background-image: url(endrick.webp);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.section2
+{
+    background-color: rgb(102, 156, 238);
+    border: solid 5px rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    max-width: 1220px;
+
+}
+
+footer
+{
+    background-color: rgb(238, 224, 102);
+    border: solid 5px rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    max-width: 1220px;  
+}
